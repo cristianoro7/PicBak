@@ -26,4 +26,27 @@
 
 * 壁纸切换: Variety
 
-* 
+* 桌面搜索工具: Albert
+
+* 谷歌浏览器
+
+* 有道词典
+
+* 微信
+
+* Plank
+
+* WPS
+
+
+### markdown工具
+
+* CMD markdown
+
+### IDE
+
+* AS
+
+* IDEA
+
+* Clion
